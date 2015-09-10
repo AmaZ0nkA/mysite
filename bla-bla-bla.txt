@@ -7,3 +7,7 @@ dirty talking (girls, scandals);
 business talking (exchange, market, investment, currency);
 
 if (nice to you) : include 'walking.txt' ? include 'exit.txt';
+
+!!!!!!!!!
+"""""""""""
+¹¹¹¹¹¹¹¹¹¹¹
