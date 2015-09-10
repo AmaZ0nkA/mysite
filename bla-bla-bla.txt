@@ -1,9 +1,9 @@
 bla-bla-bla
 
-intelligent talking
+intelligent talking (books, cinema, theater, pictures);
 
-dirty talking
+dirty talking (girls, scandals);
 
-business talking
+business talking (exchange, market, investment, currency);
 
 include 'exit.txt';
