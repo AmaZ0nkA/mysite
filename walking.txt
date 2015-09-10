@@ -1,0 +1,10 @@
+go
+
+forest
+
+nightclub
+
+restourant
+
+park
+gym
