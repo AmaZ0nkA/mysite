@@ -3,3 +3,5 @@ hola
 salam aleikum
 shalom
 ciao
+
+if (want to talk) : include 'bla-bla-bla' ? ; include 'exit.txt';
