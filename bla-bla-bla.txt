@@ -6,4 +6,4 @@ dirty talking
 
 business talking
 
-include 'exit.txt';
+if (nice to you) : include 'walking.txt' ? include 'exit.txt';
